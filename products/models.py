@@ -1,6 +1,7 @@
 from django.db import models
 
 # Create your models here.
+# null=True means is optional
 
 
 class Category(models.Model):
